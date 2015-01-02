@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            I'm Nvshen
+title:            Home of Female Neuropathy
 locale:           en_US
 url:              http://hermione6.github.io
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Lunatica
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
